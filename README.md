@@ -1,2 +1,2 @@
-# GIRSUVE
+# arem
 An online educational platform 
